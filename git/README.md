@@ -1,2 +1,4 @@
-This a readme file for git commands
+# GIT
+This a readme file for git commands.
+
 
